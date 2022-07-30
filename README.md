@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyulde
 - 👀 I’m interested in C# web development
 - 🌱 I’m currently learning C# with ASP.Net
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me yuldejeremiah@gmail.com
 
 <!---
